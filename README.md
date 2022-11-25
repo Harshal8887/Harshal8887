@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshal
 - 👀 I’m interested in Web3 and Cybersecurity
-- 🌱 I’m currently learning Blockchain Development
+- 🌱 I’m currently learning Google Cloud and Blockchain Development
 - 💞️ I’m looking to collaborate on Intresting Project Ideas in Web3 and Security.
 <!---- 📫 How to reach me 
 --->
